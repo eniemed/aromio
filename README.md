@@ -1,13 +1,29 @@
-### Esther Nieto Medina
-# Entrega 2 - Proyecto en Vue + diseño
+# Proyecto6_EstherNietoMedina
 
-## Enlace al vídeo que muestra las funcionalidades:
+This template should help get you started developing with Vue 3 in Vite.
 
-https://drive.google.com/file/d/1YFe56QFTp71ApJU7EMg6V8vD-kmtz0Qz/view?usp=sharing
+## Recommended IDE Setup
 
-Añadidos productos a la página de tienda, cuyos datos se extraen desde la base de datos desarrollada en php con laravel usando mysql.
-Añadido layout público y privado.
-Añadidos formularios de login y registro validados y diseñados.
-Añadidas rutas protegidas en el router.
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-En la parte de diseño están realizadas las mismas páginas (login, registro y tienda) con un diseño responsive.
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
